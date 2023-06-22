@@ -4,7 +4,7 @@ João Zanini
 
 Estudante alura
 
-Estudo programação e data science 
+Estudo programação
 
 instagram:@jv_zanini
 
